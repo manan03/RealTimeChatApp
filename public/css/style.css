@@ -216,10 +216,18 @@ a {
 }
 
 @media (max-width: 700px) {
-	.chat-main {
-		display: block;
+	 .chat-messages {
+		border: none;
+		border-right: 11px solid black;
+		border-left: 2px solid black;
+		width: 659px;
 	}
-
+	.chat-messages .message{
+		min-width: -webkit-fill-available;
+		display: block;
+		padding: -1px -12px;
+		margin: 10px -32px;
+	}
 	.chat-sidebar {
 		display: none;
 	}
