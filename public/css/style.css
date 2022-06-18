@@ -218,6 +218,7 @@ a {
 @media (max-width: 700px) {
 	.chat-messages {
 		border: none;
+		background: transparent;
 		/* border-right: 11px solid black;
 		border-left: 2px solid black; */
 		width: 315px;
