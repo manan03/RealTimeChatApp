@@ -217,6 +217,8 @@ a {
 
 @media (max-width: 700px) {
 	 .chat-messages {
+		border: none;
+		 background: transparent;
 		 width: 315px;
 		overflow-wrap: break-word;
 	}
