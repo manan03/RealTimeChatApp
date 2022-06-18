@@ -217,16 +217,15 @@ a {
 
 @media (max-width: 700px) {
 	 .chat-messages {
-		border: none;
-		border-right: 11px solid black;
-		border-left: 2px solid black;
-		width: 659px;
+		 width: 315px;
+		overflow-wrap: break-word;
 	}
 	.chat-messages .message{
-		min-width: -webkit-fill-available;
-		display: block;
+		 display: block;
 		padding: -1px -12px;
-		margin: 10px -32px;
+		border: 2px solid black;
+		margin: 9px -23px;
+		overflow-x: auto;
 	}
 	.chat-sidebar {
 		display: none;
