@@ -50,7 +50,20 @@ This will direct you to the home page of the website.
  - It will broadcast every user when a new member joins the room or leaves the room. 
 
 ## Phone UI
- 
+  
+
+<table>
+  <tr>
+    <td>Home Page</td>
+     <td>Join and leave</td>
+     <td>Chat page</td>
+  </tr>
+  <tr>
+    <td><img src="pic/home.jpg" width=270 height=480></td>
+    <td><img src="pic/chat1.jpg" width=270 height=480></td>
+    <td><img src="pic/chat.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
