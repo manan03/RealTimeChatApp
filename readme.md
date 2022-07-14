@@ -14,7 +14,7 @@ HeyO! uses a number of technologies:
 - [Socket.io] - enables real-time, bi-directional communication between web clients and servers
 - [HTML] - Building block of a webpage
 - [CSS] - designing the UI
-- [Vanilla Js] - JS framework used for building incredible, powerful JavaScript applications
+ 
  
 ## Installation
 
